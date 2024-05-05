@@ -14,5 +14,3 @@ function mapLetters(str) {
 	return ans;
 	
 }
-
-console.log(mapLetters(str));
